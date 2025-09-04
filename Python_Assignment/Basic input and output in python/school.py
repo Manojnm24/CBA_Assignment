@@ -15,3 +15,25 @@ elif 35<total and total<=50:
 else:
     x="Fail"
 print(f"Total : {total}% and grade is {x}")
+
+
+# enter the sub1 marks 85
+# enter the sub2 marks 85
+# enter the sub3 marks 85
+# enter the sub4 marks 85
+# enter the sub5 marks 85
+# Total : 85.0% and grade is A
+
+# enter the sub1 marks 34
+# enter the sub2 marks 34
+# enter the sub3 marks 34 
+# enter the sub4 marks 34
+# enter the sub5 marks 34
+# Total : 34.0% and grade is Fail
+
+# enter the sub1 marks 50
+# enter the sub2 marks 50
+# enter the sub3 marks 50
+# enter the sub4 marks 50
+# enter the sub5 marks 50
+# Total : 50.0% and grade is C

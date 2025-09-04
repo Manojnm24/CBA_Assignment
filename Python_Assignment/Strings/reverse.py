@@ -4,10 +4,10 @@ name = input("Enter your name: ")
 reversed_name = name[::-1]
 print(f"Welcome, {reversed_name}! Glad to have you here.")
 
-# manoj@dell-vostro:~/Desktop/CBA-tr/Assignment/Python_Assignment/Strings$ python3 reverse.py 
+
 # Enter your name: Manoj
 # Welcome, jonaM! Glad to have you here.
-# manoj@dell-vostro:~/Desktop/CBA-tr/Assignment/Python_Assignment/Strings$ python3 reverse.py 
+
 # Enter your name: world
 # Welcome, dlrow! Glad to have you here.
-# manoj@dell-vostro:~/Desktop/CBA-tr/Assignment/Python_Assignment/Strings$ 
+

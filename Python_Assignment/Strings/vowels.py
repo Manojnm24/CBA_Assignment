@@ -11,9 +11,9 @@ for char in sentence:
 print(f"Number of vowels: {count}")
 
 
-# manoj@dell-vostro:~/Desktop/CBA-tr/Assignment/Python_Assignment/Strings$ python3 vowels.py
+
 # Enter a sentence: hello cba
 # Number of vowels: 3
-# manoj@dell-vostro:~/Desktop/CBA-tr/Assignment/Python_Assignment/Strings$ python3 vowels.py
+
 # Enter a sentence: earth is where we live
 # Number of vowels: 8

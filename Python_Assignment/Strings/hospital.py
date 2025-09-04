@@ -8,10 +8,9 @@ else:
     print("Invalid Patient ID ")
 
 
-# manoj@dell-vostro:~/Desktop/CBA-tr/Assignment/Python_Assignment/Strings$ python3 hospital.py 
+
 # Enter patient ID: abc1234
 # Invalid Patient ID 
-# manoj@dell-vostro:~/Desktop/CBA-tr/Assignment/Python_Assignment/Strings$ python3 hospital.py 
+
 # Enter patient ID: HOSP4321
 # Valid Patient ID 
-# manoj@dell-vostro:~/Desktop/CBA-tr/Assignment/Python_Assignment/Strings$ 

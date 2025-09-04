@@ -6,3 +6,10 @@ if score >= 35:
     print("Result: Pass")
 else:
     print("Result: Fail")
+
+
+# Enter your score: 34
+# Result: Fail
+
+# Enter your score: 50
+# Result: Pass

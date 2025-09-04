@@ -10,3 +10,12 @@ else:
     bill = units * 10
 
 print(f"Total bill: ₹{bill}")
+
+# Enter units consumed: 200
+# Total bill: ₹1400
+
+# Enter units consumed: 350
+# Total bill: ₹3500
+
+# Enter units consumed: 50
+# Total bill: ₹250

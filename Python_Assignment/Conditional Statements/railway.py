@@ -8,3 +8,13 @@ elif age <= 60:
     print("Ticket: Full fare")
 else:
     print("Ticket: Half fare")
+    
+ 
+# Enter age: 4
+# Ticket: Free
+ 
+# Enter age: 55
+# Ticket: Full fare
+ 
+# Enter age: 85
+# Ticket: Half fare

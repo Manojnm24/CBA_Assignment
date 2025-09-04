@@ -14,3 +14,15 @@ while attempts < 3:
 
 if attempts == 3:
     print("Card blocked due to 3 wrong attempts.")
+    
+    
+# Enter PIN: 4321
+# Incorrect PIN.
+# Enter PIN: 7896
+# Incorrect PIN.
+# Enter PIN: 8745
+# Incorrect PIN.
+# Card blocked due to 3 wrong attempts.
+
+# Enter PIN: 1234             
+# Access granted. You may withdraw.

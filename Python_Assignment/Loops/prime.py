@@ -17,10 +17,8 @@ else:
     print(f"{num} is not a prime number")
 
 
-# manoj@dell-vostro:~/Desktop/CBA-tr/Assignment/Python_Assignment/Loops$ python3 prime.py
 # Enter a number: 5
 # 5 is a prime number
-# manoj@dell-vostro:~/Desktop/CBA-tr/Assignment/Python_Assignment/Loops$ python3 prime.py
+
 # Enter a number: 16
 # 16 is not a prime number
-# manoj@dell-vostro:~/Desktop/CBA-tr/Assignment/Python_Assignment/Loops$ 

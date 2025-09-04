@@ -4,7 +4,7 @@ for i in range(1, 11):
     print(f"{num} × {i} = {num * i}")
 
 
-# manoj@dell-vostro:~/Desktop/CBA-tr/Assignment/Python_Assignment/Loops$ python3 multi.py
+
 # Enter a number: 5
 # 5 × 1 = 5
 # 5 × 2 = 10

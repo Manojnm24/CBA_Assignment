@@ -5,7 +5,7 @@ for month in range(1, 13):
     balance += balance * 0.05
     print(f"Month {month}: ₹{balance:.2f}")
 
-# manoj@dell-vostro:~/Desktop/CBA-tr/Assignment/Python_Assignment/Loops$ python3 bank.py
+
 # Enter initial balance: 1000
 # Month 1: ₹1050.00
 # Month 2: ₹1102.50
